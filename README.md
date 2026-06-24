@@ -12,9 +12,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An-Orchids-whishper/An-Orchids-whishper/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/An-Orchids-whishper/An-Orchids-whishper/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/An-Orchids-whishper/An-Orchids-whishper/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An-Orchids-whisper/An-Orchids-whisper/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/An-Orchids-whisper/An-Orchids-whisper/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/An-Orchids-whisper/An-Orchids-whisper/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -98,7 +98,7 @@ stack: React · Node.js · LLM APIs
 - ⚡ Auto-extracts players & strategies
 - 📊 Visualizes **Nash Equilibrium**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper/game-prompt)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whisper/game-prompt)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://game-prompt-gb33.vercel.app/)
 
 </td>
@@ -114,7 +114,7 @@ stack: MERN · MediaPipe · OpenRouter
 - 👁️ Cheating detection via **face tracking**
 - 📝 **LLM-powered** Q&A evaluation
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper/INTERVIEW_GPT)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whisper/INTERVIEW_GPT)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://interview-gpt-tau.vercel.app/)
 
 </td>
@@ -132,7 +132,7 @@ stack: React · Tailwind CSS · Vercel
 - ✨ Optimized **UI/UX**
 - 🚀 Deployed on **Vercel**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper/Portfolio)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whisper/Portfolio)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kartikcodes-six.vercel.app/)
 
 </td>
@@ -147,7 +147,7 @@ status: [ ████████░░ ] 80% done
 - 🛠️ Currently in development
 - 🤫 Stay tuned...
 
-[![Follow](https://img.shields.io/badge/Follow_for_updates-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/An-Orchids-whishper)
+[![Follow](https://img.shields.io/badge/Follow_for_updates-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/An-Orchids-whisper)
 
 </td>
 </tr>
@@ -159,14 +159,14 @@ status: [ ████████░░ ] 80% done
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An-Orchids-whishper&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-Orchids-whishper&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An-Orchids-whisper&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-Orchids-whisper&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=An-Orchids-whishper&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=An-Orchids-whisper&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -192,9 +192,9 @@ status: [ ████████░░ ] 80% done
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pal-76b8a31ab/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikcodes-six.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikpal96501@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/An-Orchids-whishper)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/An-Orchids-whisper)
 
-![Profile Views](https://komarev.com/ghpvc/?username=An-Orchids-whishper&color=a78bfa&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=An-Orchids-whisper&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
 
